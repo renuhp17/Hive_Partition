@@ -1,0 +1,6 @@
+11,marketing,hyd
+12,hr,delhi
+13,finance,bang
+14,retail,madras
+20,db,hyd
+21,mg,madras
